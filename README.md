@@ -13,6 +13,6 @@ There are different ways to run the notebook. The most convenient and suggested 
 
 ## Links to recorded lectures
 
-Lecture 1 (Oct 09, 2026): Intro to fundamentals of quantum mechanics: [Lecture 1](https://tinyurl.com/lecture-1-iqhack2026)
+Lecture 1 (Oct 09, 2026): Intro to fundamentals of quantum mechanics: [Lecture 1](https://tinyurl.com/lecture-1-iqhack2026) Passcode: 9nhfAAa*
 
 
