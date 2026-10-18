@@ -15,4 +15,9 @@ There are different ways to run the notebook. The most convenient and suggested 
 
 Lecture 1 (Oct 09, 2026): Intro to fundamentals of quantum mechanics: [Lecture 1](https://tinyurl.com/lecture-1-iqhack2026) Passcode: 9nhfAAa*
 
+Lecture 2 (Oct 16, 2026): Quantum algorithms: [Lecture 2](https://tinyurl.com/lecture-2-iqhack2026) Passcode: 1x09$%dU
+
+
+
+
 
