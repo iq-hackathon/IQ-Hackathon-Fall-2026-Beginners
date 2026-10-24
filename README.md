@@ -17,6 +17,8 @@ Lecture 1 (Oct 09, 2026): Intro to fundamentals of quantum mechanics: [Lecture 1
 
 Lecture 2 (Oct 16, 2026): Quantum algorithms: [Lecture 2](https://tinyurl.com/lecture-2-iqhack2026) Passcode: 1x09$%dU
 
+Keynote Speaker Talk (Oct 23, 2026): [Recording](https://mtsu.zoom.us/rec/share/JmbA71T7wa2YcGq0J8ZVJHbAVcwO428dyDQmlodAhs7kDsCW9ZngTa5fgxttVdpH.65AGJ50HQAxwpJCU?from=hub) Passcode: @S.XS6k1
+
 
 
 
